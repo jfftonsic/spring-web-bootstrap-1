@@ -1,2 +1,9 @@
-# spring-web-bootstrap-1
-A project to copy-paste contents when beginning new project using similar stack. In this case: Kotlin, Gradle 5.0 Kotlin, Spring Boot Web with Undertow and Groovy Templates.
+# (YOUR PROJECT NAME HERE)
+Draw investment graphs based on determined datasources.
+
+# git commands for copy paste
+```
+git commit -a -m "whatever"
+git push --all
+git config --global credential.helper 'cache --timeout=360000'
+```
